@@ -16,7 +16,6 @@
 
 ### 📜 Certifications
 ## 🥇 Python for Data Science - IBM
-![Python Badge](![IBM badge image](https://cognitiveclass.ai/courses/python-for-data-science)
+![Python Badge](https://share.google/pUBH7zdxFF3m34upU)
 
-)
 -->
