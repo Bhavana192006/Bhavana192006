@@ -16,6 +16,7 @@
 
 ### 📜 Certifications
 ## 🥇 Python for Data Science - IBM
-![Python Badge](<img width="1080" height="1080" alt="python-for-data-science" src="https://github.com/user-attachments/assets/58df7456-5de1-4520-94a3-8d53da1898c3" />
+![Python Badge](![IBM badge image](https://github.com/user-attachments/assets/009c9e39-0286-4dbe-8ad3-f87b6daac450)
+
 )
 -->
