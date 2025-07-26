@@ -16,6 +16,6 @@
 
 ### 📜 Certifications
 ## 🥇 Python for Data Science - IBM
-![Python Badge](https://share.google/pUBH7zdxFF3m34upU)
+![Python Badge]https://ibb.co/fYCdd38D)
 
 -->
