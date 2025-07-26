@@ -12,5 +12,9 @@
 ![CSS](https://img.shields.io/badge/CSS-blue)
 
 ### 📊 GitHub Stats
-![Bhavana's GitHub stats](https://github.com/Bhavana192006/Bhavana192006/new/main?readme=1)
+![Bhavana's GitHub stats](https://github.com/Bhavana192006/Bhavana192006/new/main?readme=1
+
+### 📜 Certifications
+## 🥇 Python for Data Science - IBM
+![Python Badge](https://www.credly.com/go/myEhzvzXu6YF7r7Mr1zuzw)
 -->
